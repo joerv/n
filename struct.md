@@ -4,3 +4,5 @@ No final exam: 25% for each 5 assessments (as part of tutorials), class test wee
 no tutorials in week 1  
 everything on vision minus worked examples.  
 >TODO praxis monday 13:15
+
+#### this is a change I have made.
