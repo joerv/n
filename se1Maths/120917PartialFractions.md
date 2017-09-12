@@ -28,4 +28,12 @@ Multiply everything  out first:
 **7**x+*3*  =  **(A+B)**x + *(4A-B)*  
 A+B = 7  
 4A-B = 3  
+When solved for A and B, agrees with previous method.  
 
+
+### Example 1.3.2
+2x-1  /  (2x+1(x-3)
+
+2x-1  /  (2x+1(x-3)  =  F/ (2x+1) + G/(x-3)
+
+2x-1 = F(x-3) + G(2x+1)
