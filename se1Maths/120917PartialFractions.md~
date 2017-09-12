@@ -14,5 +14,10 @@
 7x+3  /  (x-1)(x+4)   =   A/ (x-1) + B/(x+4)  
   
 > 7x+3  =  A(x+4) + B(x-1)  
+Now solve that for A and B  
+2 options:  
+* x values that remove an A or B.
+* compare coeffieceenints of x.  
+
 
 
