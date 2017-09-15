@@ -89,4 +89,32 @@ Can replace acceleration with x (as in movement along x axis)
 * decide which direction is +ve
 * Ensure anything in opposite direction is negative
 * sketch
-*
+* Time isn't negative
+
+###Example
+A stone is thrown from a roof with initial velocity of 20m/s upwards. It then
+falls off the roof to the ground.
+- determine the time at which the stone reaches it's maximum height.
+
+u = 20  
+v = 0  
+t = ?  
+a = -9.81  
+
+0 = 20 - 9.81(t)  
+t = 20/9.81  
+= 2.04s  
+
+###Example
+Car travelling at 45m/s passes a motorbike, 1 second after, the motorbike
+accelerates at 3.00ms^-2. How long until it catches up.
+
+s = ut + 0.5at^2
+
+45t + 45 = 0 + 0.5(3)(t^2)
+
+1.5t^2 - 45t -45 = 0
+
+t^2 -30t -30 = 0
+
+t = 31s
