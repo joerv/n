@@ -105,7 +105,7 @@ a = -9.81
 t = 20/9.81  
 = 2.04s  
 
-###Example
+### Example
 Car travelling at 45m/s passes a motorbike, 1 second after, the motorbike
 accelerates at 3.00ms^-2. How long until it catches up.
 
@@ -129,4 +129,3 @@ V<sub>t/y</sub> = 15m/s
 
 V<sub>b/y</sub> = 30m/s
 
-## Motion in 2d

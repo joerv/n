@@ -105,7 +105,7 @@ a = -9.81
 t = 20/9.81  
 = 2.04s  
 
-###Example
+### Example
 Car travelling at 45m/s passes a motorbike, 1 second after, the motorbike
 accelerates at 3.00ms^-2. How long until it catches up.
 
@@ -117,4 +117,15 @@ s = ut + 0.5at^2
 
 t^2 -30t -30 = 0
 
-t = 31s
+t = 31s 
+
+## Relative velocity
+b is a ball thrown forward at 15m/s on a 15m/s train (t), you (y) are a
+stationary observer.
+
+V<sub>b/t</sub> = 15m/s
+
+V<sub>t/y</sub> = 15m/s
+
+V<sub>b/y</sub> = 30m/s
+
