@@ -23,7 +23,7 @@ If a and b are positive this can always be true:
 
 > x = log<sub>a</sub>(b)
 
-### laws of logarithms
+### Laws of logarithms
 log<sub>a</sub>(BC) = log<sub>a</sub>(B) + log<sub>a</sub>(C)
 
 log<sub>a</sub>(B/C) = log<sub>a</sub>(B) - log<sub>a</sub>(C)
