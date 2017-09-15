@@ -63,3 +63,9 @@ R = 5
 
 So T = 3
 
+
+### Improper fractions
+An algebraic fraction is improper when the power of x is larger on the top than
+the bottom.
+
+We need the fraction to be proper before we can split it into partial fractions.
