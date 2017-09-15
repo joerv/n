@@ -1,5 +1,3 @@
-## displacement-time graphs
-Gradient is velocity.
 
 ### For 0 acceleration
 
@@ -79,3 +77,16 @@ as = (u + at)dt
 [s] = [ut + 0.5at^2]  (from t to 0)
 
 s =  ut + 0.5at^2
+
+### Deriving v^2 = u^2 + 2as
+
+v = u + at   rearrrange for t and sub into s = ut +0.5at^2
+
+### Kinematic relationships for constant acceleration in one direction
+Can replace acceleration with x (as in movement along x axis)
+
+### When solving problems:
+* decide which direction is +ve
+* Ensure anything in opposite direction is negative
+* sketch
+* Time isn't negative

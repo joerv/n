@@ -21,6 +21,8 @@ No | Quotient | Remainder
 
 Top is least significant
 
+Works for any number system, just change what you divide by.
+
 Result: 1001111
 
 
@@ -55,3 +57,6 @@ Result: 1001111
 315 = 3(8^2)+1(8^1)+5(8^0)
 
 = 205 base 10
+
+### Hex
+A8 = 10(16) + 8(1) = 168
