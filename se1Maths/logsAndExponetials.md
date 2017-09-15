@@ -23,5 +23,10 @@ If a and b are positive this can always be true:
 
 > x = log<sub>a</sub>(b)
 
+### laws of logarithms
+log<sub>a</sub>(BC) = log<sub>a</sub>(B) + log<sub>a</sub>(C)
 
+log<sub>a</sub>(B/C) = log<sub>a</sub>(B) - log<sub>a</sub>(C)
+
+log<sub>a</sub>(B<sup>n</sup>) = nlog<sub>a</sub>(B)
 

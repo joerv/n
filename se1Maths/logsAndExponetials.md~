@@ -19,7 +19,9 @@ a<sup>n<sup>m</sup></sup> = a<sup>nm</sup>
 ### Rule
 If a and b are positive this can always be true:
 
-> a<sup>x</sup> = b     x = log<sub>a</sub>(b)
+> a<sup>x</sup> = b
+
+> x = log<sub>a</sub>(b)
 
 
 
