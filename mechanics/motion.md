@@ -29,5 +29,25 @@ resultant y = 34N
 
 tan(a) = 34/83
 
-**a = 22.3<sup>o</sup>**
+**a = 22.3<sup>o</sup>** (above x axis)
 
+# Contact forces
+## Normal force
+Exerted on an object by any surface with which it is in contact, always acts
+perpendicular to the surface.
+
+## Friction force
+Exerted on an object by a surface with which it is in contact, always acts
+parallel to the surface (in the direction that opposes slipping).
+
+If they are slipping: *kinetic* fricton.
+\mu <sub>k</sub>
+
+If they are not slipping: *static* fricton.
+\mu <sub>s</sub>
+
+## Tension
+Exerted by a strect rope on an object to which it is attached
+
+DRAG FORCE - if an object moves through a fluid
+F<sub>drag</sub> = 0.5pAv<sup>2</sup>
