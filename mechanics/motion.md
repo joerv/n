@@ -47,7 +47,14 @@ If they are not slipping: *static* fricton.
 \mu <sub>s</sub>
 
 ## Tension
-Exerted by a strect rope on an object to which it is attached
+Exerted by a strected rope on an object to which it is attached
 
-DRAG FORCE - if an object moves through a fluid
+## Drag force
+If an object moves through a fluid
+
 F<sub>drag</sub> = 0.5pAv<sup>2</sup>
+
+## Long range force
+* gravity
+* electical fields
+* magnetic fields
