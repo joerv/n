@@ -18,6 +18,6 @@ perform the subtraction 7-3 using a 2s complement reresentation (4 bits)
 ----  
 0100  
 
-(Ignore the carry if there is one.)
+(Ignore the carry if there is one.)  
 
 

@@ -55,4 +55,3 @@ sinh<sup>2</sup> = e<sup>2x</sup> - 2 . 1 + e<sup>-2x</sup>  /  4
 
 cosh<sup>2</sup> - sinh<sup>2</sup> = 1
 
-
