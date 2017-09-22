@@ -1,7 +1,7 @@
 # Newtons laws
 
 * If no net force acts on an object it's acceleration will be 0.
-* If a net force actos on an onject, the object accelerates. The direction of
+* If a net force acts on an onject, the object accelerates. The direction of
   acceleration is the same as the direction of the net force.
 * The mass of the body times the acceleration vector of the body equals the net
   force vector.
@@ -58,3 +58,26 @@ F<sub>drag</sub> = 0.5pAv<sup>2</sup>
 * gravity
 * electical fields
 * magnetic fields
+
+# Third law
+Every action has equal and opposite reation.
+
+Forces that could be acting on an object
+
+* gravity (mg)
+* surface (N)
+* push or pull
+* friction (static, kinetic) - parallel to surface.
+
+## Example
+parking a car on a steep hill
+
+gravity, normal, Ff friction up the hill
+
+gravity can be split into components mgcosa (y) and mgsina (x)
+
+mgcosa = N
+
+mgsina = Ff for no motion.
+
+> Ff is given by \mu * N
