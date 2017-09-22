@@ -1,3 +1,8 @@
+# Hyperbolic functions
+Just combinations of exponetials.
+
+Always just start from their definition
+
 ## Hyperbolic sine
 **sinh(x) = e<sup>x</sup> - e<sup>-x</sup> / 2**
 
@@ -39,7 +44,7 @@ sinh(4x) + cosh(4x) = e<sup>4x</sup>
 **cos<sup>2</sup>x + sin<sup>2</sup>x = 1**
 
 ## Example 2.4.3
-Show that cosh<sup>2</sup>x - sinh<sup>2</sup>x = 1
+**Show that cosh<sup>2</sup>x - sinh<sup>2</sup>x = 1**
 
 need to prove that it lies on x<sup>2</sup> - y<sup>2</sup> = 1
 
@@ -55,3 +60,23 @@ sinh<sup>2</sup> = e<sup>2x</sup> - 2 . 1 + e<sup>-2x</sup>  /  4
 
 cosh<sup>2</sup> - sinh<sup>2</sup> = 1
 
+
+## Example from tut 2
+Express 9e<sup>x</sup> + 2e<sup>-x</sup> in terms of cosh(x), sinh(x)
+
+Start from the definitions:
+
+sinhx = e<sup>x</sup> / 2   -  e<sup>-x</sup> / 2
+
+sinhx = e<sup>x</sup> / 2   +  e<sup>-x</sup> / 2
+
+sinhx + coshx = e<sup>x</sup> / 2   +   e<sup>x</sup> / 2  
+= e<sup>x</sup>
+
+coshx - sinhx = e<sup>-x</sup>
+
+therefore...
+
+9(sinhx + coshx) + 2(coshx - sinhx)
+
+=11coshx + 7sinhx
