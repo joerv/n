@@ -80,4 +80,6 @@ mgcosa = N
 
 mgsina = Ff for no motion.
 
-> Ff is given by \mu * N
+> Ff is given by \mu * mgcosa
+
+if mgsina = \mu * mgcosa then there is on motion.
