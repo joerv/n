@@ -13,7 +13,7 @@ Can't be modelled as particles.
 
 For a full circle:
 
-\theta = 2\pi .R  /  R = 2\pi rad
+\theta = 2pi .R  /  R = 2pi rad
 
 \theta = 1 rad if s = R
 
@@ -42,3 +42,38 @@ w = 2pi / T
 f = 1 /T
 
 w = 2pi .f rad s<sup>-1</sup>
+
+### 4
+differentiation can be used to calculate w if an expression for theta as a
+function of time is given:
+
+w = d.theta / d.t
+
+the angular velocity of all points on a rotating body have the same angular
+velocity.
+
+### 5
+calculate the angular velocity of the earth:
+
+2pi / 24*60*60  =  7.3x10<sup>-5</sup> rad s<sup>-1</sup>
+
+### average angular acceleration
+alpha<sub>av</sub> = delta w  /  delta t  rad s<sup>-2</sup>
+
+**instantaneous angular acceleration**
+
+alpha = lim t->0  = dw/dt
+
+w = dtheta / dt     alpha = d/dt (dtheta / dt)   =   d<sup>2</sup> theta /
+dt<sup>2</sup>
+
+### Rotation with constant accelleration 
+#### angular:
+theta<sub>0</sub>   initial angular position  
+theta   final angular position  
+w<sub>0</sub>    initial angular velocity  
+w   final angular velocity  
+alpha   angular acceleration  
+t    time  
+
+w = w<sub>0</sub>  ...
