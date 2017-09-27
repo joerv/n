@@ -35,3 +35,15 @@ X = A`.B`.C + A.B`.C + A.B.C + A`.B.C
 = B`.C.(A`+A) + B.C.(A+A`)
 
 = C
+
+## Example 4
+Use a karnaugh map to minimise the following expresssion:
+
+X = A.B`.C + A`.B.C + A`.B`.C + A`.B`.C` + A.B`.C`
+
+cBA|00|01|11|10
+---|---|---|---|---
+0|1|1|0|0
+1|1|1|0|1
+
+X = B` + A`.C
