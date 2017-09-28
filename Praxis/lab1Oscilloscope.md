@@ -32,6 +32,11 @@ Waveform Number | Shape | V<sub>dc</sub> | V<sub>pp</sub> | V<sub>p</sub> | *T* 
 ### 4.3 Phase measurement by time displacement &Delta;T
 **Table 3**
 
+Signal | 1 | 2 | 3
+---|---|---|---
+*f*|4.99Hz|1.004kHz|20.00kHz
+*&Delta;T*|540us|520us|43us
+*&omega;*|3135.3rads<sup>-1</sup>|6283.2rads<sup>-1</sup>|125663.7rads<sup>-1</sup>
 
 ## 5. Analysis
 
