@@ -11,6 +11,7 @@
 ## 4. Results
 ### 4.1 AC Voltage and frequency measurements
 **Table 1**
+
 Waveform Number | Shape | V<sub>pp</sub> | V<sub>p</sub> | *T* | *f* | &omega;
 ---|---|---|---|---|---|---
 1|sine|5.08V|2.56V|986us|1.013kHz|6364.87rads<sup>-1</sup>
@@ -20,6 +21,7 @@ Waveform Number | Shape | V<sub>pp</sub> | V<sub>p</sub> | *T* | *f* | &omega;
 
 ### 4.2 AC and DC Voltage measurement
 **Table 2**
+
 Waveform Number | Shape | V<sub>dc</sub> | V<sub>pp</sub> | V<sub>p</sub> | *T* | *f* 
 ---|---|---|---|---|---|---
 1|ramp|-1V|6.08V|2.00V|50.00us|20.00kHz
