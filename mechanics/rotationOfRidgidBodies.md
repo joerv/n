@@ -79,12 +79,3 @@ t    time
 w = w<sub>0</sub>  ...
 
 
-
-
-
-
-
-
-# TEST
-
-&omega;
