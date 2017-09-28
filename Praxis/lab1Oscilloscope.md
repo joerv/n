@@ -24,7 +24,7 @@ Waveform Number | Shape | V<sub>pp</sub> | V<sub>p</sub> | *T* | *f* | &omega;
 
 Waveform Number | Shape | V<sub>dc</sub> | V<sub>pp</sub> | V<sub>p</sub> | *T* | *f* 
 ---|---|---|---|---|---|---
-1|ramp|-1V|6.08V|2.00V|50.00us|20.00kHz
+1|ramp|-1.00V|6.08V|2.00V|50.00us|20.00kHz
 2|square|1.96V|4.96V|4.48V|3.340ms|2.99.8Hz
 3|sine|1.12V|7.04V|4.64V|33.32ms|30.01Hz
 
