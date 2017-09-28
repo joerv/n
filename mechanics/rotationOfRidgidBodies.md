@@ -77,3 +77,14 @@ alpha   angular acceleration
 t    time  
 
 w = w<sub>0</sub>  ...
+
+
+
+
+
+
+
+
+# TEST
+
+&omega;
