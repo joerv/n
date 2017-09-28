@@ -37,6 +37,10 @@ Signal | 1 | 2 | 3
 *f*|4.99Hz|1.004kHz|20.00kHz
 *&Delta;T*|540us|520us|43us
 *&omega;*|3135.3rads<sup>-1</sup>|6283.2rads<sup>-1</sup>|125663.7rads<sup>-1</sup>
+*&omega;&Delta;T*|1.69|3.15|5.4
+*&phi;*|94.8<sup>o</sup>|180<sup>o</sup>|-48<sup>o</sup>
+Lead or Lag?|lag(ch2)|lag(ch2)|lead(ch2)
+
 
 ## 5. Analysis
 
