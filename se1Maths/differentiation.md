@@ -25,4 +25,25 @@ du/dx = 2x - 3
 
 dy/dx = dy/du . du/dx
 
-= 5(2x-3)(x<sup>2</sup> - 3x + 8)<sup>5</sup>
+= 5(2x-3)(x<sup>2</sup> - 3x + 8)<sup>4</sup>
+
+
+differentiate: y = cos<sup>2</sup>x
+
+u = cosx
+
+du/dx = -sinx
+
+dy/du = 2u
+
+-2cos(x)sin(x)
+
+### product and quotient rules
+#### product
+f(x) = g(x)h(x)
+
+f'(x) = g(x)h'(x) + g'(x)h(x)
+
+
+#### quotient
+(u/v)' = vu' - uv'  /  v<sup>2</sup>
