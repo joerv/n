@@ -130,3 +130,18 @@ person on surface of earth at equator
 = 7.3x10<sup>-5</sup>
 
 v<sub>tan</sub> = R&omega; = 467.2ms<sup>-1</sup>
+
+### Energy in rotational motion
+For linear motion with speed v:
+
+Kinetic energy KE<sub>trans</sub> = 0.5mv<sup>2</sup>
+
+For angular/rotational motion:
+
+Kinetic energy KE<sub>rot</sub> = 0.5I&omega;<sup>2</sup>
+
+I - moment of inertia
+
+I = mR<sup>2</sup> 
+
+m - mass particle, R perpendicular distance from mass to center of rotation.
