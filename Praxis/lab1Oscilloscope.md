@@ -22,7 +22,7 @@ waveforms the dc offset (V<sub>dc</sub>) was also recorded (Table 2).
 
 Table 3 shows the results of comparing 3 sets of 2 waves. For each set of 2 the
 frequency was measured, as was the time difference between the two waves
-*&delta;T*. This information can be used to measure the phase difference *&phi;*
+*&Delta;T*. This information can be used to measure the phase difference *&phi;*
 with:
 
 *&phi;* = 360 x *&Delta;T* x *f*
