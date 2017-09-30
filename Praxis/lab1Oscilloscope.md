@@ -25,7 +25,7 @@ frequency was measured, as was the time difference between the two waves
 *&delta;T*. This information can be used to measure the phase difference *&phi;*
 with:
 
-*&phi;* = 360 x *&delta;T* x *f*
+*&phi;* = 360 x *&Delta;T* x *f*
 
 ## 4. Results
 ### 4.1 AC Voltage and frequency measurements
