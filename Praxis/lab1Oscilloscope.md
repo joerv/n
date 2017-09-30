@@ -4,7 +4,9 @@
 
 ## 1. Introduction
 This session was used as a opportunity to familiarise ourselves with the usage
-of an oscilloscope to analyse waveforms. 
+of an oscilloscope to analyse waveforms.  We started by recording the details of
+6 individual waveforms and then connected another channel and worked out the
+phase shift between the two waveforms.
 
 ## 2. Theory
 An electrical signal with a regularly changing Voltage will produce a regular
@@ -13,6 +15,8 @@ voltage over time, and also record certain attributes of the wave such as
 frequency and peak voltage.
 
 ## 3. Experimental method
+recording the shape,
+Voltage levels, time period, frequency, angular frequency, and DC offset of 
 
 ## 4. Results
 ### 4.1 AC Voltage and frequency measurements
