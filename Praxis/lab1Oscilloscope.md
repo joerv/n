@@ -3,8 +3,14 @@
 
 
 ## 1. Introduction
+This session was used as a opportunity to familiarise ourselves with the usage
+of an oscilloscope to analyse waveforms. 
 
 ## 2. Theory
+An electrical signal with a regularly changing Voltage will produce a regular
+waveform. An oscilloscope can be used to graphically display the changes in
+voltage over time, and also record certain attributes of the wave such as
+frequency and peak voltage.
 
 ## 3. Experimental method
 
