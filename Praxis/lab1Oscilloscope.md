@@ -15,8 +15,17 @@ voltage over time, and also record certain attributes of the wave such as
 frequency and peak voltage.
 
 ## 3. Experimental method
-recording the shape,
-Voltage levels, time period, frequency, angular frequency, and DC offset of 
+For the first 3 waveforms the oscilloscope was connected to the signal panel
+with a single BNC patch lead and the shape, Voltage levels, time period,
+frequency and angular frequency were recorded (Table 1). For the next 3
+waveforms the dc offset (V<sub>dc</sub>) was also recorded (Table 2).
+
+Table 3 shows the results of comparing 3 sets of 2 waves. For each set of 2 the
+frequency was measured, as was the time difference between the two waves
+*&delta;T*. This information can be used to measure the phase difference *&phi;*
+with:
+
+*&phi;* = 360 x *&delta;T* x *f*
 
 ## 4. Results
 ### 4.1 AC Voltage and frequency measurements
