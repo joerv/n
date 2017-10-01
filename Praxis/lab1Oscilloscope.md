@@ -66,6 +66,8 @@ Signal | 1 | 2 | 3
 Lead or Lag?|lag(ch2)|lag(ch2)|lead(ch2)
 
 
+<div style="page-break-after: always;"></div>
+
 ## 5. Analysis
 I am quite confident that the data collected from these waveforms was accurate,
 though there was one irregularity - the value for *&phi;* that I calculated from
