@@ -74,6 +74,10 @@ oscilloscope. The most likely cause of this would be that the measurements I
 took for *&Delta;T* could have been slightly inaccurate.
 
 ## 6. Conclusions
+The objective of this lab session was to learn how to use the basic functions of
+an oscilloscope, I think that has been successful. In the process I have also
+learnt ways of interpreting that data and some general information about
+sinusoidal waveforms.
 
 ## References
 *http://eeshop.unl.edu/pdf/OscilloscopeTutorial--PhaseMeasurement.pdf*
