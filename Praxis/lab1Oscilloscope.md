@@ -30,6 +30,8 @@ measure the phase difference *&phi;* with:
 Alternatively, the digital oscilloscope could be set to display the phase
 difference in degrees.
 
+<div style="page-break-after: always;"></div>
+
 ## 4. Results
 ### 4.1 AC Voltage and frequency measurements
 **Table 1**
