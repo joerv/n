@@ -22,10 +22,13 @@ waveforms the dc offset (V<sub>dc</sub>) was also recorded (Table 2).
 
 Table 3 shows the results of comparing 3 sets of 2 waves. For each set of 2 the
 frequency was measured, as was the time difference between the two waves
-*&Delta;T*. This information can be used to measure the phase difference *&phi;*
-with:
+*&Delta;T*, and which wave was leading/lagging. This information can be used to
+measure the phase difference *&phi;* with:
 
 *&phi;* = 360 x *&Delta;T* x *f*
+
+Alternatively, the digital oscilloscope could be set to display the phase
+difference in degrees.
 
 ## 4. Results
 ### 4.1 AC Voltage and frequency measurements
@@ -62,7 +65,13 @@ Lead or Lag?|lag(ch2)|lag(ch2)|lead(ch2)
 
 
 ## 5. Analysis
+I am quite confident that the data collected from these waveforms was accurate,
+though there was one irregularity - the value for *&phi;* that I calculated from
+time difference and frequency differed slightly from the value displayed by the
+oscilloscope. The most likely cause of this would be that the measurements I
+took for *&Delta;T* could have been slightly inaccurate.
 
 ## 6. Conclusions
 
 ## References
+*http://eeshop.unl.edu/pdf/OscilloscopeTutorial--PhaseMeasurement.pdf*
