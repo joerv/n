@@ -82,4 +82,4 @@ learnt ways of interpreting that data and some general information about
 sinusoidal waveforms.
 
 ## References
-*http://eeshop.unl.edu/pdf/OscilloscopeTutorial--PhaseMeasurement.pdf*
+http://eeshop.unl.edu/pdf/OscilloscopeTutorial--PhaseMeasurement.pdf
