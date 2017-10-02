@@ -106,4 +106,33 @@ Now differentiate
 
 1 - cos(y)(dy/dx) = 0
 
-dy/dx = 1&frasl;cos(y)
+dy/dx = 1 / cos(y)
+
+cos<sup>2</sup>y + sin<sup>2</sup>y = 1
+
+cosy = sqrt(1-sin<sup>2</sup>y) = sqrt(1-x<sup>2</sup>)  <-- correct
+
+
+#### Example ...
+Find slope of the tangent to the circle x<sup>2</sup> + y<sup>2</sup> = 1 at
+point P(1/sqrt(2), 1/sqrt(2))
+
+y = sqrt(1-x<sup>2</sup>)
+
+dy/dx = -2x(0.5)  /  (1 - x<sup>2</sup>)<sup>2</sup>
+
+= -x  /  (1 - x<sup>2</sup>)<sup>2</sup>
+
+At point P: dy/dx = -1
+
+**With implicit differentiation**
+
+x<sup>2</sup> + y<sup>2</sup> - 1 = 0
+
+2x + 2y(dy/dx) = 0
+
+dy/dx = -x/y
+
+= -1
+
+
