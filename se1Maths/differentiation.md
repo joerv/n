@@ -88,3 +88,22 @@ x<sup>2</sup> - siny + xy = 0 Find dy/dx
 (dy/dx)(x-cosy) = -y - 2x
 
 dy/dx =  -y -2x  /  x-cosy
+
+#### Example 4.6.3
+Use implicit differentiation to show that 
+
+(d/dx)(sin<sup>-1</sup>x) = 1 / sqrt(1-x<sup>2</sup>)
+
+**Solution**
+
+y = sin<sup>-1</sup>x     y is the angle whose sin is x
+
+x = sin(y)
+
+x - sin(y) = 0
+
+Now differentiate
+
+1 - cos(y)(dy/dx) = 0
+
+dy/dx = 1&frasl;cos(y)
