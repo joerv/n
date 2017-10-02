@@ -57,12 +57,13 @@ v = cos(x<sup>2</sup)
 
 y' = (uv)' = u'v + uv'
 
-= 9x<sup>8</sup>cos(x<sup>2</sup>) - x<sup>9</sup>.2xsin(x<sup>2</sup)
+= 9x<sup>8</sup>cos(x<sup>2</sup>) - x<sup>9</sup>.2xsin(x<sup>2</sup>)
 
-= 9x<sup>8</sup>cos(x<sup>2</sup>) - 2x<sup>10</sup>sin(x<sup>2</sup)
+= 9x<sup>8</sup>cos(x<sup>2</sup>) - 2x<sup>10</sup>sin(x<sup>2</sup>)
 
 
 ### implicit differentiation
+#### Example
 Find dy/dx for:
 
 y<sup>3</sup> + 2xy -5x<sup>2</sup> = 0
@@ -74,3 +75,16 @@ Differentiate every term with respect to x
 d/dx ( y<sup>3</sup> + 2xy -5x<sup>2</sup> ) = 0
 
 3y<sup>2</sup>(dy/dx) + 2y + 2x(dy/dx) -10x = 0
+
+(dy/dx)(3y<sup>2</sup> + 2x) = 10x - 2y
+
+dy/dx = 10x - 2y   /   3y<sup>2</sup> + 2x
+
+#### Example 4.6.2
+x<sup>2</sup> - siny + xy = 0 Find dy/dx
+
+2x - cosy(dy/dx) + y + x(dy/dx) = 0
+
+(dy/dx)(x-cosy) = -y - 2x
+
+dy/dx =  -y -2x  /  x-cosy
