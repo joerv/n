@@ -135,4 +135,16 @@ dy/dx = -x/y
 
 = -1
 
+### Parametric differentiation
+x<sup>2</sup> + y<sup>2</sup> = 1
+
+Can also be written in parametrics (works because of cos<sup>2</sup>y + sin<sup>2</sup>y = 1)
+
+x = cos(t)  
+y = sin(t)
+
+
+
+
+
 
