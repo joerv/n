@@ -47,3 +47,30 @@ f'(x) = g(x)h'(x) + g'(x)h(x)
 
 #### quotient
 (u/v)' = vu' - uv'  /  v<sup>2</sup>
+
+### Example
+y = x<sup>9</sup>cos(x<sup>2</sup>)
+
+u = x<sup>9</sup>
+
+v = cos(x<sup>2</sup)
+
+y' = (uv)' = u'v + uv'
+
+= 9x<sup>8</sup>cos(x<sup>2</sup>) - x<sup>9</sup>.2xsin(x<sup>2</sup)
+
+= 9x<sup>8</sup>cos(x<sup>2</sup>) - 2x<sup>10</sup>sin(x<sup>2</sup)
+
+
+### implicit differentiation
+Find dy/dx for:
+
+y<sup>3</sup> + 2xy -5x<sup>2</sup> = 0
+
+Too difficult to solve for y.
+
+Differentiate every term with respect to x
+
+d/dx ( y<sup>3</sup> + 2xy -5x<sup>2</sup> ) = 0
+
+3y<sup>2</sup>(dy/dx) + 2y + 2x(dy/dx) -10x = 0
