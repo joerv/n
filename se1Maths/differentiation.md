@@ -143,8 +143,29 @@ Can also be written in parametrics (works because of cos<sup>2</sup>y + sin<sup>
 x = cos(t)  
 y = sin(t)
 
+dx/dt = -sin(t)
+
+dy/dt = cos(t)
+
+dy/dx = -cos(t) / sin(t)  = -cot(t)
+
+at t=&pi;/4 : -1 <-- same answer
 
 
+#### More parametric differentiation
+(x,y) position of a dot on the edge of a rolling wheel:
 
+x = t-sin(t)
 
+y = 1-cos(t)
+
+Work out dy/dx for this curve.
+
+dx/dt = 1-cos(t)
+
+dy/dt = sin(t)
+
+dy/dx = sin(t) / 1-cos(t)
+
+Not defined where cos(t) = 1
 
