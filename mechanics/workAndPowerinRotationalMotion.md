@@ -30,7 +30,7 @@ Js<sup>-1</sup> = watts
 
 Rotational
 
-W = &tau;&Delta;$theta;
+W = &tau;&Delta;$Theta;
 
 dW/dt = &tau;. d&theta;/dt  --> Rate of change of angular velocity
 
