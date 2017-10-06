@@ -30,11 +30,11 @@ Js<sup>-1</sup> = watts
 
 Rotational
 
-W = &tau;&Delta;$Theta;
+W = &tau;&Delta;&theta;
 
 dW/dt = &tau;. d&theta;/dt  --> Rate of change of angular velocity
 
-P = &tau;.w
+P = &tau;&omega
 
 ## Momentum
 
@@ -45,3 +45,14 @@ angular momentum L is given by
 L = I&omega;
 
 kgm<sup>2</sup>s<sup>-1</sup>
+
+&omega; = Vtan/R
+
+L = mRvtan   (?)
+
+> Net force is the time rate of change of linear momentum, Net torque is the
+> time rate of change of the angular momentum.
+
+> If there is no net torque, angular momentum is conserved.
+
+
