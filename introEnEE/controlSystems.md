@@ -15,8 +15,4 @@ K = 0.25 mv/<sup>o</sup>C x 2 V/mV x 5 mm/V
 = 2.5 mm/<sup>o</sup>C
 
 
-&theta;<sub>0</sub> / &theta;<sub>i</sub> = K
-
-K&theta;<sub>i</sub> = 2.5 mm/<sup>o</sup>C x 10<sup>o</sup>C
-
-&theta;<sub>0</sub> = 25mm
+&theta;<sub>0</sub> / &theta;<sub>i</sub>
