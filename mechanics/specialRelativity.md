@@ -98,3 +98,13 @@ E - total relativistic energy
 m - &gamma;.rest mass
 
 c - speed of light in a vacuum.
+
+
+
+K = E - E<sub>rest</sub>
+
+E = K + E<sub>rest</sub>
+
+K = &gamma;mc<sup>2</sup> - mc<sup>2</sup>
+
+K = mc<sup>2</sup>(&gamma;-1)
