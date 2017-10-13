@@ -18,6 +18,8 @@ Einstein's two postulates that make up the special theory of relativity:
 * The laws of physics don't change even in an inertial (constant velocity)
   reference frame.
 
+This means that time and space must be able to change.
+
 &Delta;t = &Delta;t<sub>0</sub>  /  sqrt(1 - v<sup>2</sup>/c<sup>2</sup>)
 
 t<sub>0</sub> = proper time  -  The observed time for the moving observer
@@ -37,8 +39,7 @@ v = 0.99c
 = 15.6&mu;s
 
 
-### ?
-This means that time and space must be able to change.
+### Length contraction
 
 l = l<sub>0</sub>sqrt(1 - v<sup>2</sup>/c<sup>2</sup>)
 
@@ -48,3 +49,52 @@ measured in the frame of reference of the event. Longer length is measured.
 
 l = observed length for the stationary observer measured in a relatively moving
 frame of reference. Shorter length is measured.
+
+&gamma; 1 / sqrt(1-v<sup>2</sup>/c<sup>2</sup>)   <-- Lorentz factor
+
+### Momentum
+Newtonian linear momentum: p=mv
+
+Relativistic momentum: p = mv / sqrt(1-v<sup>2</sup>/c<sup>2</sup>
+
+p = relativistic momentum
+
+m = rest mass
+
+v = velocity of particle
+
+c = speed of light in a vacuum.
+
+### F = ma
+
+F = m.dv/dt
+
+F = dp/dt
+
+* Constant force does not produce constant acceleration, it produces a change in
+  momentum.
+* There is no limit to the momentum.
+* The speed of the object can never reach c.
+* When speed is large the object responds to forces as if it's mass has
+  increased.
+
+m<sub>rel</sub> = m / sqrt(1-v<sup>2</sup>/c<sup>2</sup>)
+
+### Energy
+E<sub>rest</sub> = mc<sup>2</sup>
+
+E<sub>rest</sub> - rest energy
+
+m - rest mass
+
+c - speed of light in a vacuum.
+
+Implies that mass is a form of energy.
+
+E = m<sub>rel</sub>c<sup>2</sup>
+
+E - total relativistic energy
+
+m - &gamma;.rest mass
+
+c - speed of light in a vacuum.
