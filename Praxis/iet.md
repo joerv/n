@@ -49,6 +49,4 @@ professionals.
 
 **references**
 
-*www.theiet.org*
-
-*www.engc.org.uk*
+*www.theiet.org*, *www.engc.org.uk*
