@@ -21,3 +21,20 @@ N = 6, mean = 7
 Can also be written as:
 
 &sigma;<sup>2</sup> = 1/N-1 [&Sigma;x<sup>2</sup> - 1/N(&Sigma;x)<sup>2</sup>]
+
+
+Sometimes frequencies are useful:
+
+mean = &Sigma;f<sub>i</sub>x<sub>i</sub> / &Sigma;f<sub>i</sub>
+
+&sigma; = &Sigma;f<sub>i</sub>(x<sub>i</sub> - mean)<sup>2</sup> /
+&Sigma;f<sub>i</sub> - 1
+
+## Ex 6.1.1
+
+x<sub>i | f<sub>i</sub>
+---|---
+1.6|26
+1.8|22
+2.0|26
+2.2|40
