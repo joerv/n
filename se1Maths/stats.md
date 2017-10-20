@@ -42,8 +42,7 @@ x<sub>i | f<sub>i</sub>
 *page 6-3*
 
 
-|x<sub>i</sub> | f<sub>i</sub> | f<sub>i</sub>x<sub>i</sub> | (x<sub>i</sub> -
-mean)<sup>2</sup> | f<sub>i</sub>(x<sub>i</sub> - mean)<sup>2</sup>
+|x<sub>i</sub> | f<sub>i</sub> | f<sub>i</sub>x<sub>i</sub> | (x<sub>i</sub> - mean)<sup>2</sup> | f<sub>i</sub>(x<sub>i</sub> - mean)<sup>2</sup>
 ---|---|---|---|---|---
 |1.6|26|19.2|0.1505|1.5065
 |1.8|22|39.6|0.0353|0.77776
