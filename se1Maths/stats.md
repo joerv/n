@@ -41,7 +41,6 @@ x<sub>i | f<sub>i</sub>
 
 *page 6-3*
 
-
 |x<sub>i</sub>
 f<sub>i</sub>
 f<sub>i</sub>x<sub>i</sub>
