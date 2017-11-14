@@ -1,0 +1,178 @@
+
+**** 11/14/17 18:12:32 ***** PSpice 16.6.0 (October 2012) ***** ID# 0 ********
+
+ * C:\Users\Joe\Documents\pspice\FMAmpForSim.sch
+
+
+ ****     CIRCUIT DESCRIPTION
+
+
+******************************************************************************
+
+
+
+
+* Schematics Version 16.6.0
+* Tue Nov 14 18:12:31 2017
+
+
+
+** Analysis setup **
+.tran 200ns 5ms 0 100ns
+
+
+* From [PSPICE NETLIST] section of C:\Users\Joe\AppData\Roaming\SPB_Data\cdssetup\OrCAD_PSpice/16.6.0/PSpice.ini:
+.lib "C:\Cadence\LM386.lib"
+.lib "nom.lib"
+
+.INC "FMAmpForSim.net"
+
+
+
+**** INCLUDING FMAmpForSim.net ****
+* Schematics Netlist *
+
+
+
+C_C9         $N_0001 $N_0002  47n  
+C_C8         $N_0002 $N_0003  220u  
+C_C5         $N_0004 $N_0005  100n  
+R_R2         0 $N_0001  10  
+R_R6         0 $N_0006  1g  
+R_R4         $N_0004 $N_0007  22k  
+R_R47         $N_0009 $N_0008  180  
+R_LS1         0 $N_0003  20  
+V_V27         $N_0005 0  
++SIN 0 10mv 1000 0 0 0
+C_C6         0 $N_0010  1n  
+X_U2         $N_0009 0 $N_0010 0 $N_0002 $N_0011 $N_0006 $N_0012 LM386
+C_C7         $N_0008 $N_0012  10u  
+R_RV2a         $N_0010 $N_0007  5k  
+R_RV2b         0 $N_0010  5k  
+V_Bat1         $N_0011 0 3.5V
+
+**** RESUMING FMAmpForSim.cir ****
+.PROBE V(*) I(*) W(*) D(*) NOISE(*) 
+
+
+.END
+
+**** 11/14/17 18:12:32 ***** PSpice 16.6.0 (October 2012) ***** ID# 0 ********
+
+ * C:\Users\Joe\Documents\pspice\FMAmpForSim.sch
+
+
+ ****     BJT MODEL PARAMETERS
+
+
+******************************************************************************
+
+
+
+
+               X_U2.ddnpn      X_U2.ddpnp      
+               NPN             PNP             
+       LEVEL    1               1            
+          IS   10.000000E-15   10.000000E-15 
+          BF  400             200            
+          NF    1               1            
+         VAF  100             100            
+          BR    1               1            
+          NR    1               1            
+         VAR  100             100            
+         ISS    0               0            
+          RE    0               0            
+          RC    0               0            
+         CJE    5.000000E-12    5.000000E-12 
+         VJE     .75             .75         
+         MJE     .3333           .3333       
+         CJC    2.000000E-12    2.000000E-12 
+         VJC     .75             .75         
+         MJC     .3333           .3333       
+        XCJC    1               1            
+         CJS    0               0            
+         VJS     .75             .75         
+          TF    1.000000E-09    1.000000E-09 
+         VTF   10              10            
+         ITF    1               1            
+          TR   10.000000E-09   10.000000E-09 
+         XTB    1.5             1.5          
+          KF    0               0            
+          AF    1               1            
+          CN    2.42            2.2          
+           D     .87             .52         
+
+
+**** 11/14/17 18:12:32 ***** PSpice 16.6.0 (October 2012) ***** ID# 0 ********
+
+ * C:\Users\Joe\Documents\pspice\FMAmpForSim.sch
+
+
+ ****     INITIAL TRANSIENT SOLUTION       TEMPERATURE =   27.000 DEG C
+
+
+******************************************************************************
+
+
+
+ NODE   VOLTAGE     NODE   VOLTAGE     NODE   VOLTAGE     NODE   VOLTAGE
+
+
+($N_0001)    0.0000                   ($N_0002)    2.5333                       
+
+($N_0003)    0.0000                   ($N_0004) 9.398E-06                       
+
+($N_0005)    0.0000                   ($N_0006)    2.2720                       
+
+($N_0007) 9.398E-06                   ($N_0008)    1.0443                       
+
+($N_0009)    1.0443                   ($N_0010) 9.398E-06                       
+
+($N_0011)    3.5000                   ($N_0012)    1.0440                       
+
+(X_U2.10001)    3.2345                (X_U2.10002)    3.2433                    
+
+(X_U2.10004)    3.2433                (X_U2.10006)    1.8233                    
+
+(X_U2.10007)    1.8233                (X_U2.10008)    1.0439                    
+
+(X_U2.10011)     .4534                (X_U2.10012)     .4536                    
+
+(X_U2.10013)     .5903                (X_U2.10014)     .6264                    
+
+(X_U2.10017)    1.8345                
+
+
+
+
+    VOLTAGE SOURCE CURRENTS
+    NAME         CURRENT
+
+    V_V27        0.000E+00
+    V_Bat1      -9.780E-05
+    X_U2.V_f1   -1.264E-06
+    X_U2.v1     -1.264E-06
+    X_U2.v2      3.331E-04
+    X_U2.V_f2    1.593E-06
+    X_U2.v3     -1.593E-06
+
+    TOTAL POWER DISSIPATION  -1.22E-04  WATTS
+
+
+
+          JOB CONCLUDED
+
+**** 11/14/17 18:12:32 ***** PSpice 16.6.0 (October 2012) ***** ID# 0 ********
+
+ * C:\Users\Joe\Documents\pspice\FMAmpForSim.sch
+
+
+ ****     JOB STATISTICS SUMMARY
+
+
+******************************************************************************
+
+
+
+  Total job time (using Solver 1)   =        6.80
+

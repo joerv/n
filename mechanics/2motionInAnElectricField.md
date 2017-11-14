@@ -61,3 +61,19 @@ a = qE/m
 
 particle experiences acceleration, deflection either opposite E-field for a
 negative charge, or along E-field for a positive charge.
+
+## Charges moving in magnetic fields
+Force on a moving particle in a B-field
+
+F = Bqv.sin&theta;
+
+&theta; = angle between v and B
+
+for &theta; = 90:
+
+r = mv/qB ,   f = qB/2&pi;m
+
+Charged particles travelling with v = E/B experience no net force through
+crossed E and B fields.
+
+
